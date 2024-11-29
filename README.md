@@ -1,1 +1,1 @@
-# NumPy and Pandas Refreshers
+# NumPy and Pandas
